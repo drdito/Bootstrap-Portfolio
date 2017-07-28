@@ -1,0 +1,28 @@
+body {
+	background-image: url("../images/concrete_seamless.png");
+}
+
+
+#copyrightText {
+	position: relative;
+	left: 475px;
+}
+
+.myPhoto {
+	margin-right: 10px;
+}
+
+.portfolioText {
+	
+	height: 35px;
+	width: 100%;
+	background-color: green;
+	position: relative;
+    top: -64px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 35px;
+    font-size: 23px;
+    font-weight: bold; 
+}
+
