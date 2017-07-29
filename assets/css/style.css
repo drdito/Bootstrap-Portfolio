@@ -1,11 +1,11 @@
 body {
 	background-image: url("../images/concrete_seamless.png");
+	padding-bottom: 75px !important;
 }
 
 
-#copyrightText {
-	position: relative;
-	left: 475px;
+.headerContainer {
+	background-color: #fff !important;
 }
 
 .myPhoto {
@@ -16,7 +16,7 @@ body {
 	
 	height: 35px;
 	width: 100%;
-	background-color: green;
+	background-color: #4aaaa5;
 	position: relative;
     top: -64px;
     text-align: center;
@@ -24,5 +24,41 @@ body {
     line-height: 35px;
     font-size: 23px;
     font-weight: bold; 
+    color: #fff;
 }
+
+.footer {
+	border-top: solid !important;
+	border-top-width: 20px !important;
+	border-top-color: #4aaaa5 !important;
+	background-color: #666666 !important;
+	background-image: none !important;
+	color: black !important;
+}
+
+#copyrightText {
+	color: black !important;
+}
+
+.name {
+	background-color: #4aaaa5 !important;
+	color: #fff !important;
+	font-size: 24px !important;
+	font-weight: bold !important;
+}
+
+.panel-heading {
+	background-image: none !important;
+	background-color: #4aaaa5 !important;
+	font-size: 20px !important;
+	color: #fff !important;
+	font-weight: bold !important;
+}
+
+.btn {
+	background-color: #4aaaa5 !important;
+	color: #fff !important;
+	
+}
+
 
