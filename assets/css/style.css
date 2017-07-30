@@ -62,3 +62,19 @@ body {
 }
 
 
+@media screen and  (max-width: 990px) {
+
+	.portfolioText {
+		width: 350px;
+	}
+
+
+}
+
+@media screen and  (max-width: 430px) {
+	.portfolioText {
+		width: 100%;
+	}
+
+}
+
